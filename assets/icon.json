@@ -1,0 +1,692 @@
+{
+    "items": [
+        {
+            "voice": "konuşmak_istiyorum.png",
+            "icon": "konuşmak.png",
+            "text": "konuşmak istiyorum"
+        },
+
+        {
+            "voice": "istiyorum.png",
+            "icon": "to_want.png",
+            "text": "istiyorum"
+        },
+
+        {
+            "voice": "istemiyorum.png",
+            "icon": "not_want.png",
+            "text": "istemiyorum"
+        },
+
+        {
+            "voice": "yemek.png",
+            "icon": "food.png",
+            "text": "yemek"
+        },
+
+        {
+            "voice": "içmek.png",
+            "icon": "to_drink.png",
+            "text": "içmek"
+        },
+
+        {
+            "voice": "elma.png",
+            "icon": "apple.png",
+            "text": "elma"
+        },
+
+        {
+            "voice": "armut.png",
+            "icon": "pear.png",
+            "text": "armut"
+        },
+
+        {
+            "voice": "domates.png",
+            "icon": "tomato.png",
+            "text": "domates"
+        },
+
+        {
+            "voice": "salatalık.png",
+            "icon": "cucumber.png",
+            "text": "salatalık"
+        },
+
+        {
+            "voice": "açım.png",
+            "icon": "hungry.png",
+            "text": "açım"
+        },
+
+        {
+            "voice": "tokum.png",
+            "icon": "tokum.png",
+            "text": "tokum"
+        },
+
+        {
+            "voice": "çok.png",
+            "icon": "very.png",
+            "text": "çok"
+        },
+
+        {
+            "voice": "az.png",
+            "icon": "small.png",
+            "text": "az"
+        },
+
+        {
+            "voice": "su.png",
+            "icon": "drink.png",
+            "text": "su"
+        },
+
+        {
+            "voice": "meyve_suyu.png",
+            "icon": "juice.png",
+            "text": "meyve suyu"
+        },
+
+        {
+            "voice": "kola.png",
+            "icon": "tinned_drink.png",
+            "text": "kola"
+        },
+
+        {
+            "voice": "patates_kızartması.png",
+            "icon": "potatoes.png",
+            "text": "patates kızartması"
+        },
+
+        {
+            "voice": "köfte.png",
+            "icon": "meat_balls.png",
+            "text": "köfte"
+        },
+
+        {
+            "voice": "merhaba.png",
+            "icon": "hello.png",
+            "text": "merhaba"
+        },
+
+        {
+            "voice": "günaydın.png",
+            "icon": "morning.png",
+            "text": "günaydın"
+        },
+
+        {
+            "voice": "güle_güle.png",
+            "icon": "bye.png",
+            "text": "güle güle"
+        },
+
+        {
+            "voice": "görüşürüz.png",
+            "icon": "goodbye.png",
+            "text": "görüşürüz"
+        },
+
+        {
+            "voice": "teşekkür_ederim.png",
+            "icon": "thanks.png",
+            "text": "teşekkür ederim"    
+        },
+
+        {
+            "voice": "lütfen.png",
+            "icon": "please.png",
+            "text": "lütfen"
+        },
+
+        {
+            "voice": "iyi_günler.png",
+            "icon": "day.png",
+            "text": "iyi günler"
+        },
+
+        {
+            "voice": "iyi_geceler.png",
+            "icon": "night.png",
+            "text": "iyi geceler"
+        },
+
+        {
+            "voice": "yardım_etmek.png",
+            "icon": "help.png",
+            "text": "yardım edebilir misin"
+        },
+        {
+            "voice": "nasılsın.png",
+            "icon": "your.png",
+            "text": "nasılsın"
+        },
+
+        {
+            "voice": "iyiyim.png",
+            "icon": "good.png",
+            "text": "iyiyim"
+        },
+
+        {
+            "voice": "kötüyüm.png",
+            "icon": "bad.png",
+            "text": "kötüyüm"
+        },
+
+        {
+            "voice": "neden.png",
+            "icon": "why.png",
+            "text": "neden"
+        },
+
+        {
+            "voice": "ne_zaman.png",
+            "icon": "when.png",
+            "text": "ne zaman"
+        },
+
+        {
+            "voice": "nasıl.png",
+            "icon": "how.png",
+            "text": "nasıl"
+        },
+
+        {
+            "voice": "kim.png",
+            "icon": "who.png",
+            "text": "kim"
+        },
+
+        {
+            "voice": "ne.png",
+            "icon": "questions.png",
+            "text": "ne"
+        },
+
+        {
+            "voice": "nereye.png",
+            "icon": "where.png",
+            "text": "nereye"
+        },
+
+        {
+            "voice": "nerede.png",
+            "icon": "where.png",
+            "text": "nerede"
+        },
+
+        {
+            "voice": "tamam.png",
+            "icon": "to_understand.png",
+            "text": "tamam"
+        },
+
+        {
+            "voice": "hayır.png",
+            "icon": "former.png",
+            "text": "hayır"
+        },
+
+        {
+            "voice": "evet.png",
+            "icon": "yes.png",
+            "text": "evet"
+        },
+
+        {
+            "voice": "özür_dilerim.png",
+            "icon": "sorry.png",
+            "text": "özür dilerim"
+        },
+
+        {
+            "voice": "hissediyorum.png",
+            "icon": "feel.png",
+            "text": "hissediyorum"
+        },
+
+        {
+            "voice": "iyi.png",
+            "icon": "good.png",
+            "text": "iyi"
+        },
+
+        {
+            "voice": "kötü.png",
+            "icon": "bad.png",
+            "text": "kötü"
+        },
+
+        {
+            "voice": "mutlu.png",
+            "icon": "happy.png",
+            "text": "mutlu"
+        },
+
+        {
+            "voice": "utanıyorum.png",
+            "icon": "utangaç.png",
+            "text": "utanıyorum"
+        },
+
+        {
+            "voice": "korkuyorum.png",
+            "icon": "scare.png",
+            "text": "korkuyorum"
+        },
+
+        {
+            "voice": "öfkeli.png",
+            "icon": "angry.png",
+            "text": "öfkeli"
+        },
+
+        {
+            "voice": "şaşkın.png",
+            "icon": "şaşkın.png",
+            "text": "şaşkın"
+        },
+
+        {
+            "voice": "sıkıldım.png",
+            "icon": "boring.png",
+            "text": "sıkıldım"
+        },
+
+
+        {
+            "voice": "heyecanlı.png",
+            "icon": "have_fun.png",
+            "text": "heyecanlı"
+        },
+
+        {
+            "voice": "gergin.png",
+            "icon": "nervous.png",
+            "text": "gergin"
+        },
+
+        {
+            "voice": "üzgün.png",
+            "icon": "sad.png",
+            "text": "üzgün"
+        },
+
+        {
+            "voice": "yorgun.png",
+            "icon": "tired.png",
+            "text": "yorgun"
+        },
+
+        {
+            "voice": "daha_sonra.png",
+            "icon": "clock.png",
+            "text": "daha sonra"
+        },
+
+        {
+            "voice": "birazdan.png",
+            "icon": "hour.png",
+            "text": "birazdan"
+        },
+
+        {
+            "voice": "şimdi.png",
+            "icon": "now.png",
+            "text": "şimdi"
+        },
+
+        {
+            "voice": "bundan_sonra.png",
+            "icon": "from.png",
+            "text": "bundan sonra"
+        },
+
+        {
+            "voice": "bu.png",
+            "icon": "this_one.png",
+            "text": "bu"
+        },
+
+        {
+            "voice": "şu.png",
+            "icon": "that_one.png",
+            "text": "şu"
+        },
+
+        {
+            "voice": "çok.png",
+            "icon": "very.png",
+            "text": "çok"
+        },
+
+        {
+            "voice": "az.png",
+            "icon": "small.png",
+            "text": "az"
+        },
+
+        {
+            "voice": "fazla.png",
+            "icon": "more.png",
+            "text": "fazla"
+        },
+
+        {
+            "voice": "hiç.png",
+            "icon": "none.png",
+            "text": "hiç"
+        },
+
+        {
+            "voice": "ben.png",
+            "icon": "me.png",
+            "text": "ben"
+        },
+
+        {
+            "voice": "sen.png",
+            "icon": "you.png",
+            "text": "sen"
+        },
+
+        {
+            "voice": "o.png",
+            "icon": "he.png",
+            "text": "o"
+        },
+
+        {
+            "voice": "biz.png",
+            "icon": "we.png",
+            "text": "biz"
+        },
+
+        {
+            "voice": "siz .png",
+            "icon": "siz.png",
+            "text": "siz"
+        },
+
+        {
+            "voice": "onlar.png",
+            "icon": "they.png",
+            "text": "onlar"
+        },
+
+        {
+            "voice": "mı.png",
+            "icon": "question.png",
+            "text": "mı"
+        },
+
+        {
+            "voice": "mi.png",
+            "icon": "question.png",
+            "text": "mi"
+        },
+
+        {
+            "voice": "ama.png",
+            "icon": "but.png",
+            "text": "ama"
+        },
+
+        {
+            "voice": "güzel.png",
+            "icon": "beautiful.png",
+            "text": "güzel "
+        },
+
+        {
+            "voice": "istiyorum.png",
+            "icon": "to_want.png",
+            "text": "istiyorum"
+        },
+
+        {
+            "voice": "istemiyorum.png",
+            "icon": "not_want.png",
+            "text": "istemiyorum"
+        },
+
+        {
+            "voice": "seninle.png",
+            "icon": "your.png",
+            "text": "seninle"
+        },
+
+        {
+            "voice": "oynamak.png",
+            "icon": "to_play.png",
+            "text": "oynamak"
+        },
+
+        {
+            "voice": "konuşmak.png",
+            "icon": "talk_louder.png",
+            "text": "konuşmak"
+        },
+
+        {
+            "voice": "oturmak.png",
+            "icon": "to_sit.png",
+            "text": "oturmak"
+        },
+
+        {
+            "voice": "okumak.png",
+            "icon": "to_read.png",
+            "text": "okumak"
+        },
+
+        {
+            "voice": "gitmek.png",
+            "icon": "to_go.png",
+            "text": "gitmek"
+        },
+
+        {
+            "voice": "dinlemek.png",
+            "icon": "listen.png",
+            "text": "dinlemek"
+        },
+
+        {
+            "voice": "izlemek.png",
+            "icon": "watch.png",
+            "text": "izlemek"
+        },
+
+        {
+            "voice": "kitap.png",
+            "icon": "book.png",
+            "text": "kitap"
+        },
+
+        {
+            "voice": "müzik.png",
+            "icon": "music.png",
+            "text": "müzik"
+        },
+
+        {
+            "voice": "televizyon.png",
+            "icon": "television.png",
+            "text": "televizyon"
+        },
+
+        {
+            "voice": "film.png",
+            "icon": "film.png",
+            "text": "film"
+        },
+
+        {
+            "voice": "giyinmek.png",
+            "icon": "clothes.png",
+            "text": "giyinmek"
+        },
+
+        {
+            "voice": "tuvalete.png",
+            "icon": "toilet_bowl.png",
+            "text": "tuvalete"
+        },
+        {
+            "voice": "salona.png",
+            "icon": "living_room.png",
+            "text": "salona"
+        },
+
+        {
+            "voice": "odama.png",
+            "icon": "bedroom.png",
+            "text": "odama"
+        },
+
+        {
+            "voice": "içeri.png",
+            "icon": "inside.png",
+            "text": "içeri"
+        },
+
+        {
+            "voice": "dışarı.png",
+            "icon": "outside.png",
+            "text": "dışarı"
+        },
+
+        {
+            "voice": "girmek.png",
+            "icon": "to_enter.png",
+            "text": "girmek"
+        },
+
+        {
+            "voice": "çıkmak.png",
+            "icon": "exit.png",
+            "text": "çıkmak"
+        },
+
+        {
+            "voice": "seni.png",
+            "icon": "you.png",
+            "text": "seni"
+        },
+
+        {
+            "voice": "sevmek.png",
+            "icon": "love.png",
+            "text": "sevmek"
+        },
+
+        {
+            "voice": "görmek.png",
+            "icon": "look_at.png",
+            "text": "görmek"
+        },
+
+        {
+            "voice": "duymak.png",
+            "icon": "to_hear.png",
+            "text": "duymak"
+        },
+
+        {
+            "voice": "yardım.png",
+            "icon": "need_help.png",
+            "text": "yardım"
+        },
+
+        {
+            "voice": "yanımda.png",
+            "icon": "next_to.png",
+            "text": "yanımda"
+        },
+
+        {
+            "voice": "getirmek.png",
+            "icon": "take.png",
+            "text": "getirmek"
+        },
+
+        {
+            "voice": "götürmek.png",
+            "icon": "to_bring.png",
+            "text": "götürmek"
+        },
+
+        {
+            "voice": "göstermek.png",
+            "icon": "show.png",
+            "text": "göstermek"
+        },
+
+        {
+            "voice": "beklemek.png",
+            "icon": "wait.png",
+            "text": "beklemek"
+        },
+
+        {
+            "voice": "uyumak.png",
+            "icon": "to_sleep.png",
+            "text": "uyumak"
+        },
+
+        {
+            "voice": "ellerimi.png",
+            "icon": "hands.png",
+            "text": "ellerimi"
+        },
+
+        {
+            "voice": "yıkamak.png",
+            "icon": "to_wash.png",
+            "text": "yıkamak"
+        },
+
+        {
+            "voice": "banyo.png",
+            "icon": "wash_hair.png",
+            "text": "banyo yapmak"
+        },
+
+        {
+            "voice": "benim.png",
+            "icon": "me.png",
+            "text": "benim"
+        },
+
+        {
+            "voice": "adım.png",
+            "icon": "name.png",
+            "text": "adım"
+        },
+
+        {
+            "voice": "yaşım.png",
+            "icon": "age.png",
+            "text": "yaşım"
+        },
+
+        {
+            "voice": "evet.png",
+            "icon": "yes.png",
+            "text": "evet"
+        },
+
+        {
+            "voice": "hayır.png",
+            "icon": "former.png",
+            "text": "hayır"
+        }
+    ]
+}
