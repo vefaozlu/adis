@@ -341,7 +341,7 @@
             "text": "biz"
         },
         {
-            "voice": "siz .mp3",
+            "voice": "siz.mp3",
             "icon": "siz.png",
             "text": "siz"
         },
@@ -545,32 +545,32 @@
             "text": "yıkamak"
         },
         {
-            "voice": "banyo.png",
+            "voice": "banyo.mp3",
             "icon": "wash_hair.png",
             "text": "banyo yapmak"
         },
         {
-            "voice": "benim.png",
+            "voice": "benim.mp3",
             "icon": "me.png",
             "text": "benim"
         },
         {
-            "voice": "adım.png",
+            "voice": "adım.mp3",
             "icon": "name.png",
             "text": "adım"
         },
         {
-            "voice": "yaşım.png",
+            "voice": "yaşım.mp3",
             "icon": "age.png",
             "text": "yaşım"
         },
         {
-            "voice": "evet.png",
+            "voice": "evet.mp3",
             "icon": "yes.png",
             "text": "evet"
         },
         {
-            "voice": "hayır.png",
+            "voice": "hayır.mp3",
             "icon": "former.png",
             "text": "hayır"
         }

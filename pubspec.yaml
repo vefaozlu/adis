@@ -36,6 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   audioplayers: ^0.20.1
   sliding_up_panel: ^2.0.0+1
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:
