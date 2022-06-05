@@ -1,10 +1,33 @@
 {
-    "items": [
+    "main": [
         {
             "voice": "konuşmak_istiyorum.mp3",
             "icon": "konuşmak.png",
             "text": "konuşmak istiyorum"
         },
+        {
+            "voice": "ilaç_istiyorum.mp3",
+            "icon": "medicine.png",
+            "text": "ilaç"
+        },
+        {
+            "voice": "ağrım_var.mp3",
+            "icon": "ache.png",
+            "text": "ağrı"
+        
+        },
+        {
+            "voice": "evet.mp3",
+            "icon": "yes.png",
+            "text": "evet"
+        },
+        {
+            "voice": "hayır.mp3",
+            "icon": "former.png",
+            "text": "hayır"
+        }
+    ],
+    "food": [
         {
             "voice": "istiyorum.mp3",
             "icon": "to_want.png",
@@ -89,7 +112,9 @@
             "voice": "köfte.mp3",
             "icon": "meat_balls.png",
             "text": "köfte"
-        },
+        }
+    ],
+    "daily": [
         {
             "voice": "merhaba.mp3",
             "icon": "hello.png",
@@ -203,7 +228,9 @@
             "voice": "özür_dilerim.mp3",
             "icon": "sorry.png",
             "text": "özür dilerim"
-        },
+        }
+    ],
+    "emotions": [
         {
             "voice": "hissediyorum.mp3",
             "icon": "feel.png",
@@ -269,7 +296,9 @@
             "voice": "yorgun.mp3",
             "icon": "tired.png",
             "text": "yorgun"
-        },
+        }
+    ],
+    "tamlamalar": [
         {
             "voice": "daha_sonra.mp3",
             "icon": "clock.png",
@@ -369,7 +398,9 @@
             "voice": "güzel.mp3",
             "icon": "beautiful.png",
             "text": "güzel "
-        },
+        }
+    ],
+    "needs": [
         {
             "voice": "istiyorum.mp3",
             "icon": "to_want.png",
@@ -548,7 +579,9 @@
             "voice": "banyo.mp3",
             "icon": "wash_hair.png",
             "text": "banyo yapmak"
-        },
+        }
+    ],
+    "other": [
         {
             "voice": "benim.mp3",
             "icon": "me.png",

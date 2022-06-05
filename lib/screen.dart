@@ -1,6 +1,6 @@
 import 'package:adis/color_package.dart';
 import 'package:adis/cubits/cubits.dart';
-import 'package:adis/model.dart';
+import 'package:adis/models/model.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -44,7 +44,7 @@ class _MainScreenState extends State<MainScreen> {
                 child: ListTile(
                   // leading: CircleAvatar(backgroundImage: ),
                   title: Text(
-                    categories[index],
+                    categories[index].categoryTitle,
                     style: TextStyle(
                       color: state.categoryIndex == index
                           ? ColorPackage.primaryTextColor
@@ -52,7 +52,10 @@ class _MainScreenState extends State<MainScreen> {
                       fontWeight: FontWeight.bold,
                     ),
                   ),
-                  onTap: () => context.read<ItemsCubit>().getCategory(index),
+                  onTap: () => context.read<ItemsCubit>().fetchItems(
+                        categoryName: categories[index].categoryName,
+                        index: index,
+                      ),
                 ),
               ),
             ),
@@ -83,7 +86,7 @@ class _MainScreenState extends State<MainScreen> {
                   return const Center(child: Text('Something went wrong.'));
                 }
                 if (state.status == ItemsStatus.success) {
-                  return ItemsView(items: state.categoryItems);
+                  return ItemsView(items: state.items);
                 }
                 return const Center(child: CircularProgressIndicator());
               },
@@ -94,13 +97,16 @@ class _MainScreenState extends State<MainScreen> {
     );
   }
 
-  List<String> categories = [
-    'Yemek',
-    'Gunluk Konusma',
-    'Duygular',
-    'Tamlamalar',
-    'Ihtiyac ve Istekler',
-    'Ana Menu',
+  List<Category> categories = const [
+    Category(categoryName: CategoryName.main, categoryTitle: 'Ana Menu'),
+    Category(categoryName: CategoryName.food, categoryTitle: 'Yemek'),
+    Category(categoryName: CategoryName.daily, categoryTitle: 'Gunluk Konusma'),
+    Category(categoryName: CategoryName.emotions, categoryTitle: 'Duygular'),
+    Category(
+        categoryName: CategoryName.tamlamalar, categoryTitle: 'Tamlamalar'),
+    Category(
+        categoryName: CategoryName.needs, categoryTitle: 'Ihtiyac ve Istekler'),
+    Category(categoryName: CategoryName.other, categoryTitle: 'Diger'),
   ];
 }
 

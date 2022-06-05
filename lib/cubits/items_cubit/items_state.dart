@@ -7,20 +7,17 @@ class ItemsState extends Equatable {
   const ItemsState._({
     this.status = ItemsStatus.loading,
     this.items = const [],
-    this.categoryItems = const [],
-    this.categoryIndex = 5,
+    this.categoryIndex = 0,
   });
 
   const ItemsState.loading() : this._();
 
   const ItemsState.success({
     required List<Item> items,
-    required List<Item> categoryItems,
     required int categoryIndex,
   }) : this._(
           status: ItemsStatus.success,
           items: items,
-          categoryItems: categoryItems,
           categoryIndex: categoryIndex,
         );
 
@@ -28,9 +25,8 @@ class ItemsState extends Equatable {
 
   final ItemsStatus status;
   final List<Item> items;
-  final List<Item> categoryItems;
   final int categoryIndex;
 
   @override
-  List<Object> get props => [status, items, categoryItems, categoryIndex];
+  List<Object> get props => [status, items, categoryIndex];
 }
